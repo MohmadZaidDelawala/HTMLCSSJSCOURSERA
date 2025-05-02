@@ -13,9 +13,9 @@ This repository contains my completed assignments for the Coursera course:
 | Folder | Description |
 |--------|-------------|
 | `WEEK2` | Responsive webpage with external CSS |
-| `Courseraweek3` | Menu layout using media queries |
-| `week4` | JavaScript DOM interaction assignment |
-| `Week5` | Final project – dynamic site using JavaScript |
+| `WEEK3` | Menu layout using media queries |
+| `WEEK4` | JavaScript DOM interaction assignment |
+| `WEEK5` | Final project – dynamic site using JavaScript |
 
 ---
 
